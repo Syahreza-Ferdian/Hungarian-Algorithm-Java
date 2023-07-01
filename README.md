@@ -27,6 +27,7 @@ Data pada tabel di atas dapat direpresentasikan ke dalam matriks berikut ini:
 ```
 Apabila matriks cost tersebut dimasukkan ke dalam program yang saya buat, akan didapatkan output:
 ![](https://i.postimg.cc/sxQFrC6J/image.png)
+<br>
 Program akan menampilkan hasil optimal dari algoritma dan juga rincian yang menjelaskan nilai-nilai yang harus diimplementasikan untuk mendapatkan hasil optimal tersebut.
 <br>
 Jadi, dari hasil rincian tersebut dapat disimpulkan bahwa:
